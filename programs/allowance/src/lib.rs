@@ -16,7 +16,7 @@ pub mod state;
 use instructions::*;
 use state::SessionParams;
 
-declare_id!("83eetVkGiCvyFw452uNiBhf6UtKnj4XKDjAUrQArFaQL");
+declare_id!("EMQ41VCuQb2WuBzQ1V4ffsG6cRxrYyGqxPNAdju5uwnN");
 
 #[program]
 pub mod allowance {

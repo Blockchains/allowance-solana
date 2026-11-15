@@ -7,10 +7,10 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-allowance = "83eetVkGiCvyFw452uNiBhf6UtKnj4XKDjAUrQArFaQL"
+allowance = "EMQ41VCuQb2WuBzQ1V4ffsG6cRxrYyGqxPNAdju5uwnN"
 
 [programs.localnet]
-allowance = "83eetVkGiCvyFw452uNiBhf6UtKnj4XKDjAUrQArFaQL"
+allowance = "EMQ41VCuQb2WuBzQ1V4ffsG6cRxrYyGqxPNAdju5uwnN"
 
 [registry]
 url = "https://api.apr.dev"
